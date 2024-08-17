@@ -505,6 +505,16 @@ transform: rotate(20deg);
     .div2{
         padding-top: 10vh;
     }
+    .project-heading{
+        width: 30px;
+    }
+    .skill-container{
+        /* align-items: center;
+        text-align: center; */
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
     table,td,tr{
         /* border:2px solid red; */
         width: 70%;
@@ -514,10 +524,6 @@ transform: rotate(20deg);
         margin-left: 1vw;
         padding:1vh 1vw ;
     }
-    .project-heading{
-        width: 30px;
-    }
-
     /* skills */
 
    
