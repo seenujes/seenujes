@@ -505,6 +505,15 @@ transform: rotate(20deg);
     .div2{
         padding-top: 10vh;
     }
+    table,td,tr{
+        /* border:2px solid red; */
+        width: 70%;
+        align-items: center;
+        text-align: center;
+        height: 30px;
+        margin-left: 1vw;
+        padding:1vh 1vw ;
+    }
     .project-heading{
         width: 30px;
     }
